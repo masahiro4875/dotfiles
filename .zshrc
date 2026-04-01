@@ -6,6 +6,7 @@ alias ll='ls -aGFl'
 alias k='kubectl'
 alias python='python3'
 alias ls='ls -GF'
+alias vim='nvim'
 
 # プロンプト設定
 #PROMPT='%F{magenta}%n@%~%f$ '
